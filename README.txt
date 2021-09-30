@@ -1,2 +1,15 @@
-# DIY-RGB-LOGO-
-Hey everyone, on my YouTube channel Coding With Agam, i have uploaded a tutorial, on projects with arduino for beginners. One of them was a diy RGB logo made by me. Don't forget to check-out the video with this link: https://www.youtube.com/watch?v=XGR3pVpCsbI
+The above provided code is for using an/a RGB led with arduino
+
+RGB led connections for arduino
+
+RED_pin > pin 11 on arduino
+
+GREEN_pin > pin 12 on arduino
+
+BLUE_pin > pin 13 on arduino
+
+If you have the led with common anode or negitive terminal,
+connect it on the 'gnd' on Arduino ('gnd' is the negitive terminal in an Arduino).
+
+If you have the led with the common cathode or postive terminal,
+connect it to '+5'/'5v' on arduino (it is the positive terminal in an Arduino).
