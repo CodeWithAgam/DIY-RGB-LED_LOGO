@@ -3,12 +3,9 @@
 ### The provided code is for using an/a RGB led with Arduino or any other microcontroller.
 
 > **RGB led connections for arduino**
-
-> *RED_pin > pin 11 on arduino*
-
-> *GREEN_pin > pin 12 on arduino*
-
-> *BLUE_pin > pin 13 on arduino*
+> *RED_pin to pin 11 on arduino*
+> *GREEN_pin to pin 12 on arduino*
+> *BLUE_pin to pin 13 on arduino*
 
 If you have the led with common anode or negitive terminal, connect it on the 'gnd' on Arduino ('gnd' is the negitive terminal in an Arduino).
 
